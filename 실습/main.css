@@ -1,0 +1,13 @@
+input {
+    display: block;
+    margin: 0 auto 10px auto;
+}
+
+body{
+    text-align: center;
+    margin-top: 17%;
+}
+
+.shadow { 
+    display: none;
+}

@@ -10,7 +10,7 @@ function paintImage(imgNumber) {
 }
 
 function getRandom() {
-    const number = Math.floor(Math.random() * 3);
+    const number = Math.floor(Math.random() * 5);
     return number;
 }
 
